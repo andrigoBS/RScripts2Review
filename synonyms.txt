@@ -1,0 +1,48 @@
+carbon;carbon sequestration
+gis; geographic information systems;geographic information system;gis analysis;spatial database
+tidal flat;flat area;intertidal zone; tidal flats; intertidal; intertidal environment;coastal wetland; wetland; coastal wetlands;intertidal flat; intertidal zones;mudflat;mudflats;moisture;soil moisture;intertidal flats;intertidal wetland;wetlands
+coastal zone management; coastal zone; coastal zones;coastal;mapping;mapping method;environmental monitoring;coastal waters;maps;coast;decision making;environmental management;management;vulnerability;wetland management;coastal development;monitoring;regional planning;environmental factor;coastal plain;ecosystem service;coastal systems;coastal ecosystems;ecosystem management;coastal area;cost effectiveness;marine environment;coastal habitats;sustainable development;conservation;restoration;conservation of natural resources; conservation management;reforestation;ecosystem services;ecosystem function;ecological role
+civil engineering;construction;engines;coastal engineering;environmental engineering;shore protection;coastal protection; ;environmental protection
+satellite imagery; satellite data;image reconstruction; remote sensing images;satellites;imagery;satellite remote sensing;satellite images;satelite;geodetic satellites;high resolution satellite imagery;multispectral image;multi-spectral imagery
+estuarine environment;estuarine ecosystem;estuaries;estuary;estuarine wetlands;estuarine dynamics;bay
+beach topography;beach profile;topography;morphology;geomorphology; coastal morphology;geology;topographic mapping;elevation;digital terrain model;beach morphology;surface topography;topographic map;digital elevation mode;digital elevation model
+remote sensing technology;remote sensing;remote-sensing;remotely sensed data;remote sensing techniques;image enhancement;remote sensing data;optical remote sensing;spatial data
+land use/land cover;land use and land cover;land use land cover change;land use/land cover change;land cover;supervised classification;image classification;landforms;classification (of information);land use; classification; spatial distribution;spatial analysis;image segmentation;landscape pattern;feature extraction;extraction;landscape;agricultural land;land use change;detection method;edge detection;classification accuracy;land reclamation;reclamation;vegetation;vegetation mapping;forestry;soils;agriculture;vegetation structure;vegetation dynamics;vegetation cover;forests;forest;vegetation classification;vegetation type
+sedimentology;facies;sedimentation; sediment transport;deposition;sand;sediment;sediments;sedimentary facies;grain-size;intertidal sediments;grain size and shape;grain size;coastal sediment;sediment distribution
+image analysis;image processing;images
+salinity;saline water
+river;rivers;river catchment
+risk factors;risk factor;risk assessment
+theorical model;models, theorical
+human activity;anthropogenic activity;humans;human activities;anthropogenic effect;human;urbanization;communities
+oceanography;hydrodynamics;dynamics;morphodynamics;hydrology;transport;fluid dynamics; ocean currents;
+time series analysis;time;season;seasons;time series;spatiotemporal analysis;seasonal variation;times series;temporal variation;multi-temporal;time-series
+water level;sea level;tides;tidal power;water levels;tidal cycle;tidal conditions;tidal current;tide
+tidal channel;tidal creeks;delta;tidal inlet;ebb tide
+seagrass;marsh vegetation;grassland;saltmarsh;grass;salt marshes;seagrasses;marsh;tidal marshes;salt-marsh;aboveground biomass;biomass
+radar imaging;radar;sar images;sar;polarimetric sar;space-based radar;synthetic aperture radar imagery;polarimetric sar data;tracking radar;terrasar-x;synthetic apertures;radar measurement;radar interferometry;optical radar;synthetic aperture radar
+sea level change;climate change;sea level rise;floods;climate-change;sea-level rise;water level;global warming;storms
+flood;flooding;flood-plains;wetland inundation
+coastal evolution;erosion;coastal erosion;shoreline change;variability;spatial variation;evolution;landscape change;environmental change;environmental degradation;accretion;morphological changes;morphological process;sandbank;migration;decadal variation
+shoreline;coastline;waterline;seashore
+snow cover;snow;snow covers;snow melting systems
+watershed;watersheds
+water flow;water movements
+data acquisition;in-situ;surveys;field works;tide gages;in situ measurement;surveying
+backscattering;backscatter;scattering
+landsat;landsat tm;landsat thematic mapper;landsat images
+suspended sediments;suspended sediment;surficial sediments;surface sediments;suspended particulate matter;suspended sediment concentrations
+dissolved organic matter;ocean color;turbidity;pigment
+numerical model;model;mathematical models;regression analysis;computer simulation;prediction;model validation;simulation;models;three-dimensional modeling
+water;sea;surface;surface roughness;surface waters;seawater;waterbodies;shallow water
+photogrammetry;aerial photography;lidar;photomapping;unmanned aerial vehicles (uav);photography;photosynthesis;airborne sensing;lidar data;videography
+neural networks;decision trees;artificial neural network;algorithm;algorithms;machine learning;unsupervised classification;object oriented classification;deep learning;machine-learning;random forest;random forests;artificial neural network models;object oriented programming
+google earth engine;google earths
+spectral indices;ndvi;vegetation index;index;water index ndwi
+biological studies;typha latifolia;pleurozium schreberi;cladonia rangiferina;biology;hygrophila (plant);coniferophyta;mosquito;biogeography;microphytobenthos;bovine;algae;ecology;ecosystem;habitat;habitat quality;plants (botany);animals;aves;animal;macrobenthos;marine biology;landscape ecology;ocean habitats;seaweed;molluscs;endangered species;invasive species;habitat use;shellfish;introduced species;algal bloom;macrofauna;species distribution;primary production;habitat type;water marine habitats;habitat mapping;fisheries;mollusc;macrophyte;biogeochemistry;marine ecosystem;population distribution;phytobenthos;birds;zostera noltii;halophyte;population decline;biodiversity;ecosystems;aquaculture
+chlorophyll;chlorophyll-a;chlorophyll a;aquatic vegetation
+gps;global positioning system
+bathymetry;water depth
+reefs;coral reef;reef
+mangrove forest;mangrove;anoxic sediments
+light study;reflection;spectroscopy;reflectance;spectral reflectance;spectral reflectances;light;infrared devices;spectral characteristics;spectrometers;hyperspectral;infrared radiation;light detection and ranging;spectral analysis;color;infrared imaging;solar radiation;reflectance spectrum;water content

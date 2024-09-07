@@ -1,0 +1,18 @@
+id,Model Abbreviation,Recurrence of use in literature
+1,XGBoost,2
+2,CatBoost,2
+3,LightGBM,1
+4,KNN,2
+5,K-Means,2
+6,SVM,10
+7,RF,11
+8,DT,2
+9,MLP,7
+10,CNN,12
+10.1,CNN | U-NET,4
+10.2,CNN | RDU-NET,1
+10.3,CNN | RDNRBP,1
+10.4,CNN | GPR,1
+10.5,CNN | WDSPEB,1
+10.6,CNN | H-DSPEB,1
+10.7,CNN | BP,2
